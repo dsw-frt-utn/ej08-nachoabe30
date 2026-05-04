@@ -1,0 +1,9 @@
+namespace Dsw2026Ej8.Ejercicio_6;
+
+public class Problema6
+{
+    public string NormalizarCodigoProducto(string code)
+    {
+        return code.ToProductCode();
+    }
+}
